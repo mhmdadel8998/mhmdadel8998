@@ -3,7 +3,7 @@ I am a Senior Systems & Biomedical Engineering Student.
 ## 📝 Resume 
 
 <a href="https://drive.google.com/drive/folders/1d2_VxEXw2-Ikd0JoP2c33YJgOOqj2APS" type="application/pdf">
-  <img src="Mohamed_Adel_Resume.jpg" alt="Mohamed Adel | Resume" width="300">
+  <img src="Adel_Resume.PNG" alt="Mohamed Adel | Resume" width="300">
 </a>
 
 --------
