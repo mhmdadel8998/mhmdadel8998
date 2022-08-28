@@ -1,9 +1,9 @@
 # Mohamed Adel Mahmoud
-I am a Senior Systems & Biomedical Engineering Student.
+Fresh Graduate of Systems & Biomedical Engineering Cairo University. Interested in backend development.
 ## 📝 Resume 
 
 <a href="https://drive.google.com/drive/folders/1d2_VxEXw2-Ikd0JoP2c33YJgOOqj2APS" type="application/pdf">
-  <img src="Mohamed_Adel_Resume.PNG" alt="Mohamed Adel | Resume" width="300">
+  <img src="Mohamed_Adel_Resume_update.PNG" alt="Mohamed Adel | Resume" width="300">
 </a>
 
 --------
@@ -11,7 +11,7 @@ I am a Senior Systems & Biomedical Engineering Student.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdadel8998&exclude_repo=Hospital-Information-System-Radiology-Department,Robotic-Body-Modeling-with-Animation&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdadel8998&exclude_repo=Hospital-Information-System-Radiology-Department,Registeration-Page,MEDREC,Robotic-Body-Modeling-with-Animation&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Languages & Technologies
 
@@ -25,3 +25,9 @@ I am a Senior Systems & Biomedical Engineering Student.
 <code><img height="20" alt="flutter" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRglnUsnfLyIofsJrCffEJFJiT688ztJEAJ_Q&usqp=CAU"></code>
 <code><img height="20" alt="mySQL" src="https://i.imgur.com/2bScz0p.png"></code>
 <code><img height="20" alt="git" src="https://i.imgur.com/cSu4jhA.png"></code>
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmdadel8998&count_private=true&show_icons=true&theme=radical)
+</div>
