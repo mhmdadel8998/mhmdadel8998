@@ -5,7 +5,7 @@ Fresh Graduate of Systems & Biomedical Engineering Cairo University. Interested 
 ## 📝 Resume 
 
 <a href="https://drive.google.com/drive/folders/1d2_VxEXw2-Ikd0JoP2c33YJgOOqj2APS" type="application/pdf">
-  <img src="Mohamed_Adel_Resume_update.PNG" alt="Mohamed Adel | Resume" width="300">
+  <img src="Resume.PNG" alt="Mohamed Adel | Resume" width="300">
 </a>
 
 --------
