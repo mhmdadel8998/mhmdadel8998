@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohamed Adel Mahmoud
-Fresh Graduate of Systems & Biomedical Engineering Cairo University. Interested in backend development.
+Fresh Graduate of Systems & Biomedical Engineering Cairo University. Interested in Software Testing.
 ## 📝 Resume 
 
 <a href="https://drive.google.com/drive/folders/1d2_VxEXw2-Ikd0JoP2c33YJgOOqj2APS" type="application/pdf">
